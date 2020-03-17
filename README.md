@@ -1,5 +1,12 @@
 # webscarpping
 this is a web scrapping with nodejs
 TODOS
-1.[]add nodejs and other packages
-2.[]create code.
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
